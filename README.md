@@ -12,7 +12,7 @@
 
 👋 Hi, I'm Kareem Hekal, a Flutter Developer focused on Clean Architecture and building scalable, production-ready apps.
 
-👯 &nbsp;I'm looking to collaborate on **Exciting mobile and desktop application projects, especially those that push the boundaries of what's possible with Flutter.**
+ &nbsp;I'm looking to collaborate on **Exciting mobile and desktop application projects, especially those that push the boundaries of what's possible with Flutter.**
 
 ### 🛠️ Tech Stack
 
